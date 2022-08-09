@@ -1,75 +1,76 @@
-Albania 
-Armenia 
-Australia 
-Austria 
-Bahamas 
-Bahrain 
-Barbados 
-Belarus 
-Belgium 
-Bosnia and Herzegovina 
-Bulgaria 
-Canada 
-Cambodia 
-Cameroon 
+Albania
+Armenia
+Australia
+Austria
+Bahamas
+Bahrain
+Barbados
+Belarus
+Belgium
+Bosnia and Herzegovina
+Bulgaria
+Canada
+Cambodia
+Cameroon
 Chile
-China* 
-Colombia 
-Croatia 
+China*
+Colombia
+Croatia
 Cyprus
-Czech Republic 
-Denmark 
+Czech Republic
+Denmark
 Estonia
 Finland
-France 
+France
 Georgia
-Germany 
-Greece 
-Hungary 
-Iceland 
-India 
-Indonesia** 
+Germany
+Ghana
+Greece
+Hungary
+Iceland
+India
+Indonesia**
 Ireland
-Italy 
-Kazakhstan 
-Kenya 
-Korea** 
-Kosovo 
-Kyrgyzstan 
+Italy
+Kazakhstan
+Kenya
+Korea**
+Kosovo
+Kyrgyzstan
 Latvia
-Lithuania 
-Luxembourg 
+Lithuania
+Luxembourg
 Malaysia
-Malta, Republic of 
-Mexico*** 
-Moldova 
+Malta, Republic of
+Mexico***
+Moldova
 Netherlands
-New Zealand 
-Nigeria 
-Norway 
-Oman 
-Poland 
-Portugal 
-Romania 
-Russia** 
-Saudi Arabia 
-Serbia 
+New Zealand
+Nigeria
+Norway
+Oman
+Poland
+Portugal
+Romania
+Russia**
+Saudi Arabia
+Serbia
 Singapore**
-Slovakia 
+Slovakia
 Slovenia
-South Africa 
+South Africa
 Spain
-Sweden 
-Switzerland 
-Taiwan 
-Tajikistan** 
-Thailand** 
+Sweden
+Switzerland
+Taiwan
+Tajikistan**
+Thailand**
 Turkey
 Ukraine
-United Arab Emirates 
+United Arab Emirates
 Uganda
-United Kingdom 
-United States 
-Uruguay† 
-Uzbekistan** 
+United Kingdom
+United States
+Uruguay†
+Uzbekistan**
 Zimbabwe
