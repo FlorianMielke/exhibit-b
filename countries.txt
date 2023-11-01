@@ -10,7 +10,7 @@ Belgium
 Bosnia and Herzegovina
 Bulgaria
 Canada
-Cambodia
+Cambodia**
 Cameroon
 Chile
 China*
@@ -19,6 +19,7 @@ Croatia
 Cyprus
 Czech Republic
 Denmark
+Egypt
 Estonia
 Finland
 France
@@ -36,13 +37,13 @@ Kazakhstan
 Kenya
 Korea**
 Kosovo
-Kyrgyzstan
+Kyrgyzstan**
 Latvia
 Lithuania
 Luxembourg
 Malaysia
 Malta, Republic of
-Mexico***
+Mexico****
 Moldova
 Netherlands
 New Zealand
@@ -52,7 +53,7 @@ Oman
 Poland
 Portugal
 Romania
-Russia**
+Russia***
 Saudi Arabia
 Serbia
 Singapore**
@@ -64,8 +65,9 @@ Sweden
 Switzerland
 Taiwan
 Tajikistan**
+Tanzania
 Thailand**
-Turkey
+Türkiye
 Ukraine
 United Arab Emirates
 Uganda
@@ -73,4 +75,5 @@ United Kingdom
 United States
 Uruguay†
 Uzbekistan**
+Vietnam
 Zimbabwe
