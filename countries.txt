@@ -7,6 +7,7 @@ Bahrain
 Barbados
 Belarus
 Belgium
+Benin
 Bosnia and Herzegovina
 Bulgaria
 Canada
@@ -33,6 +34,7 @@ India
 Indonesia**
 Ireland
 Italy
+Ivory Coast
 Kazakhstan
 Kenya
 Korea**
@@ -42,9 +44,10 @@ Latvia
 Lithuania
 Luxembourg
 Malaysia
-Malta, Republic of
-Mexico****
+Malta
+Republic of Mexico****
 Moldova
+Nepal
 Netherlands
 New Zealand
 Nigeria
@@ -61,6 +64,7 @@ Slovakia
 Slovenia
 South Africa
 Spain
+Suriname
 Sweden
 Switzerland
 Taiwan
@@ -76,4 +80,5 @@ United States
 Uruguay†
 Uzbekistan**
 Vietnam
+Zambia
 Zimbabwe
