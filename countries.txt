@@ -2,6 +2,7 @@ Albania
 Armenia
 Australia
 Austria
+Azerbaijan
 Bahamas
 Bahrain
 Barbados
@@ -17,8 +18,7 @@ Chile
 China*
 Colombia
 Croatia
-Cyprus
-Czech Republic
+Cyprus	Czech Republic
 Denmark
 Egypt
 Estonia
@@ -35,30 +35,34 @@ Indonesia**
 Ireland
 Italy
 Ivory Coast
-Kazakhstan
+Japan***
+Kazakhstan**
 Kenya
 Korea**
 Kosovo
-Kyrgyzstan**
+Kyrgyzstan**	
+Laos
 Latvia
 Lithuania
 Luxembourg
 Malaysia
-Malta
-Republic of Mexico****
+Malta, Republic of
+Mexico****
 Moldova
-Nepal
+Nepal**
 Netherlands
 New Zealand
 Nigeria
 Norway
 Oman
+Peru
 Poland
 Portugal
 Romania
 Russia***
 Saudi Arabia
 Serbia
+Senegal
 Singapore**
 Slovakia
 Slovenia
